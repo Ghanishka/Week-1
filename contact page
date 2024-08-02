@@ -1,0 +1,24 @@
+<title> Contact Form </title>
+<a href="portfolio.html"> Ghanishka </a>
+<p> Web developer </p>
+<form> 
+<table>
+    <tr> <td> Name:</td><td> <input type="text" placeholder="Your name">
+    </td>
+</tr>
+    <tr> <td> Email:</td> <td> <input type="text" placeholder="Your email">
+    </td>
+</tr>
+    <tr>
+        <td> Message:</td> <td> <textarea placeholder ="Your message" ></textarea>
+    </td>
+</tr>
+<tr> 
+<td> </td> <td><input type="Submit"></td>
+</tr>
+</table>
+</form>
+<p>Social Media:
+<a href="https://www.linkedin.com/in/ghanishka-easwaran25/">LinkedIn</a> 
+</p>
+<p> &copy Ghanishka </p>
