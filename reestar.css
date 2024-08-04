@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+
+.container{
+    margin: 10px;
+    background-color:#FEFAE0;
+}
+.section-one{
+    background-color:black;
+    color:white;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    /* vertical-align:top; */
+}
+ .section-one p{
+    color:white;
+ }
+
+ .contact{
+    margin-top: 20px;
+    padding: 30px;
+    background-color: black;
+    color:white;
+    text-align: center;
+ }
+ .contact-one{
+    display: inline-block;
+    margin-top: 10px;
+ }
+
+ .contact-one__button{
+    display: block;
+    align-items: center;
+    background-color: blanchedalmond;
+    color:black;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 10px;
+ }
+
+ .section-two{
+    margin-top: 10px;
+    padding: 10px;
+    height: 350px;
+    width: 200px;
+    border: solid #cabfbd00 5px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    background-color: #DEAC80;
+    vertical-align:bottom;
+ }
+
+.section-two button{
+    margin: 10px;
+    background-color: #481E14;
+    color: white;
+    padding: 5px;
+    border: none;
+}
+.section-two h4{
+    text-decoration: line-through;
+}
+.section-two_desc{
+    text-align: center;
+    vertical-align: top;
+}
+.contact-one__input{
+    margin-top: 10px;
+    border: none;
+    border-bottom:yellowgreen;
+}
