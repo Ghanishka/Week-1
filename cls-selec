@@ -1,0 +1,10 @@
+<style>
+    .one{
+        color:blue;  
+    }
+    .two{
+        color:green;
+    }
+</style>
+<h1 class="one">Bharath</h1>
+<h1 class="two">Vicky</h1>
