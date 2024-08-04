@@ -1,0 +1,18 @@
+<style>
+h1{
+    background-color:yellow; 
+}
+h1:hover{
+    background-color:green;
+    height:200px;
+}
+input:focus
+{
+outline:dotted;
+/* outline:solid; */
+}
+</style>
+<h1>
+  Good day! 
+</h1>
+<input="text">
