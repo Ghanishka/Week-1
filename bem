@@ -1,0 +1,32 @@
+<style>
+    .card
+    {
+        width:200px;
+        background-color:black;
+        color:white;
+        padding:20px;
+    }
+    .card__button
+    {
+        background-color: greenyellow;
+        color:black;
+        border:none;
+        padding: 3px;
+    }
+    .card__button--red
+    {
+        background-color:red;
+    }
+   /* .card__:hover
+    {
+    background-color:purple;
+    color:yellowgreen;
+    }  */
+    </style>
+    <div class="card">
+    <img class="card__image" src="https://picsum.photos/200">
+    <h1 class="card__title">Ooty:Queen of Hills</h1>
+    <p class=""card__description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quo quisquam blanditiis, corrupti minima ad ipsam hic incidunt excepturi autem reiciendis. Ullam fugit omnis, quasi voluptas aperiam neque quis exercitationem?</p>
+    <button class="card__button">checkout</button>
+    <button class="card__button card__button--red">delete</button>
+    </div>
