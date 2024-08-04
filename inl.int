@@ -1,0 +1,13 @@
+<!--inline css-->
+<h1 style="color:white;background-color:yellowgreen;">Ghanishka Dheena</h1>
+
+
+<!--internal css-->
+<style>
+    div{
+        background-color:palevioletred;
+        width:35px;
+        height:16px;
+    }
+</style>
+<div> Hello </div> 
