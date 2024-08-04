@@ -1,0 +1,10 @@
+<style>
+    #one{
+        color:yellowgreen;  
+    }
+    #two{
+        color:darkgoldenrod;
+    }
+</style>
+<h1 id="one">Bharath</h1>
+<h1 id="two">Vicky</h1>
