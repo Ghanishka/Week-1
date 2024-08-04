@@ -1,0 +1,11 @@
+<style>
+div{
+    border:solid purple 10px;
+    padding:20px;
+}  
+</style>
+<h1>This is the Exercise Heading</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores maiores aut blanditiis debitis, voluptatum mollitia, repellat ipsum alias, accusantium adipisci ipsa ipsam illo totam in odio omnis quaerat pariatur. Aliquam?</p>
+<div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, ipsam. In eligendi temporibus asperiores possimus commodi quidem velit, minima sunt saepe debitis dignissimos, inventore autem nihil veniam praesentium esse necessitatibus.</p>
+</div>
