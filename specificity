@@ -1,0 +1,13 @@
+<style>
+h1{
+    color:red;
+}
+.col
+{
+color:purple !important;
+}
+#one{
+    color:blue !important;
+}
+</style>
+<h1 class = "col" id="one" style="color:aqua"> Good day! </h1>s
