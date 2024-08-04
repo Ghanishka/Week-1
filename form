@@ -1,0 +1,6 @@
+<form action="https://www.firstcry.com/">
+    <label>Name:</label> <input type="text"> <br>
+    <label>Age:</label> <input type="number"> <br>
+    <label>Email:</label> <input type="email"> <br>
+    <input type="reset">
+</form>
