@@ -1,0 +1,29 @@
+<style>
+div
+{
+    width:200px;
+    background-color:black;
+    color:white;
+    padding:20px;
+}
+.button
+{
+    background-color: transparent;
+    color:white;
+    border:none;
+    border: solid yellow 2px;
+    padding: 3px;
+}
+
+.button:hover
+{
+background-color:purple;
+color:yellowgreen;
+}
+</style>
+<div>
+<img src="https://picsum.photos/200">
+<h1>Ooty:Queen of Hills</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quo quisquam blanditiis, corrupti minima ad ipsam hic incidunt excepturi autem reiciendis. Ullam fugit omnis, quasi voluptas aperiam neque quis exercitationem?</p>
+<button class="button">checkout</button>
+</div>
